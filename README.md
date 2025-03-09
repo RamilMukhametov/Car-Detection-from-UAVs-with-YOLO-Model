@@ -1,3 +1,7 @@
 # Car-Detection-from-UAVs-with-YOLO-Model
 
-**The task of this project** is to train a machine learning model for real-time detection of passenger cars onboard an unmanned aerial vehicle (UAV).
+**Project Objective:**
+
+Train a machine learning model to detect passenger cars on board a UAV in real time
+
+**Project Features:**
