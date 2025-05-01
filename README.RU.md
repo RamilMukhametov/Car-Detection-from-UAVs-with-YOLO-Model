@@ -29,16 +29,16 @@
    ### Установка virtualenv (если не установлено)
    pip install virtualenv
 
-   # Создание виртуального окружения
+   ### Создание виртуального окружения
    virtualenv yolov12_env
 
-   ### 3. Активация окружения
+## 3. Активация окружения
 
-   # Активация виртуального окружения
-   # На Windows
+   ### Активация виртуального окружения
+   #### На Windows
    yolov8_env\Scripts\activate
 
-   # На macOS/Linux
+   #### На macOS/Linux
    source yolov8_env/bin/activate
 
 ## 4. Установка ultralytics
