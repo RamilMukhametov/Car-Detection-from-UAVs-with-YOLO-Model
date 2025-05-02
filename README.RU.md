@@ -36,10 +36,10 @@
 
    ### Активация виртуального окружения
    #### На Windows
-   yolov8_env\Scripts\activate
+   yolov12_env\Scripts\activate
 
    #### На macOS/Linux
-   source yolov8_env/bin/activate
+   source yolov12_env/bin/activate
 
 ## 4. Установка ultralytics
    pip install ultralytics
