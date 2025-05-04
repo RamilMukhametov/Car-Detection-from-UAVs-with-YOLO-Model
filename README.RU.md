@@ -27,7 +27,9 @@
 ## 2. Создание окружения
 
    ### Установка virtualenv (если не установлено)
+   ```python
    pip install virtualenv
+   ```
 
    ### Создание виртуального окружения
    virtualenv yolov12_env
