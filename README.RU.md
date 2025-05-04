@@ -39,13 +39,19 @@
 
    ### Активация виртуального окружения
    #### На Windows
+   ```python
    yolov12_env\Scripts\activate
+   ```
 
    #### На macOS/Linux
+   ```python
    source yolov12_env/bin/activate
+   ```
 
 ## 4. Установка ultralytics
+   ```python
    pip install ultralytics
+   ```
 при возникновении ошибок можно скачать и установить пакет отдельно. 
 Например: pip install /home/user/Загрузки/torch-2.7.0-cp310-cp310-manylinux_2_28_x86_64.whl
 
