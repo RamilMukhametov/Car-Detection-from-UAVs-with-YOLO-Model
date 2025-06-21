@@ -47,7 +47,9 @@
    ```python
    source yolov12_env/bin/activate
    ```
-
+   ```python
+   source yolo_env/bin/activate
+   ```
 ## 4. Установка ultralytics
    ```python
    pip install ultralytics
