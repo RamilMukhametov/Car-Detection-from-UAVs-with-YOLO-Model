@@ -30,7 +30,6 @@
    ```python
    pip install virtualenv
    ```
-
    ### Создание виртуального окружения
    ```python
    virtualenv yolov12_env
@@ -82,6 +81,24 @@ sudo apt install tmux
 ```bash
 tmux
 ```
+
+### 3. Отключится от сессии tmux
+```bash
+Ctrl + b, затем d
+```
+### 4. Вернуться в seанс tmux:
+```bash
+tmux attach
+```
+### 5. Просмотреть список запущенных сеансов tmux
+```bash
+tmux ls
+```
+### 6. Подключиться к конкретному сеансу, указав его ID
+```bash
+tmux attach -t <имя_или_id_сеанса>
+```
+
 
 
 
